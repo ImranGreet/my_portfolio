@@ -1,7 +1,7 @@
 <template>
     <section id="profile">
         <div class="section__pic-container">
-          <img src="../assets/profile-pic.JPG" alt="John Doe profile picture" />
+          <img src="../assets/project-1.png" alt="John Doe profile picture" />
         </div>
         <div class="section__text">
           <p class="section__text__p1">Hello, I'm</p>
