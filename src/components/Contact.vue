@@ -9,7 +9,7 @@
               alt="Email icon"
               class="icon contact-icon email-icon"
             />
-            <p><a href="mailto:examplemail@gmail.com">Example@gmail.com</a></p>
+            <p><a href="mailto:hossainimran1208@gmail.com">hossainimran1208@gmail.com</a></p>
           </div>
           <div class="contact-info-container">
             <img
@@ -17,7 +17,7 @@
               alt="LinkedIn icon"
               class="icon contact-icon"
             />
-            <p><a href="https://www.linkedin.com">LinkedIn</a></p>
+            <p><a href="https://www.linkedin.com/in/imran-hossain-9210042a7/">LinkedIn</a></p>
           </div>
         </div>
       </section>

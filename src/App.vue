@@ -14,6 +14,7 @@ import Projects from "./components/Projects.vue";
  <section>
   <Navbar/>
   <Profile/>
+  <About/>
   <Exp/>
   <Projects/>
   <Contact/>
